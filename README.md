@@ -1,0 +1,2 @@
+# Automatic-Liquid_Dispenser
+Amidst the COVID-19 pandemic, I designed an automatic water Dispenser Circuit that senses distance of the users' hand or any container with the help of Ultrasonic-sensor and accordingly dispenses water which can be used for different purposes. If, used on a large basis around public areas,this idea will help to flatten the curve for Corona Virus to some extent. I also tested out a prototype at home.
